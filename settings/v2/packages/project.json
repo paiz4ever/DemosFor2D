@@ -1,0 +1,15 @@
+{
+  "__version__": "1.0.5",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "BLOCK"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 3,
+      "1": 1
+    }
+  }
+}
